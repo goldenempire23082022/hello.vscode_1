@@ -1,0 +1,38 @@
+@import "_header";
+
+
+h1 {
+	color: rgb(63, 15, 220);
+}
+
+h2 {
+	color: rgb(216, 16, 16);
+}
+
+h3 {
+	color: rgb(15, 233, 106);
+}
+
+body {
+
+	font-size: 20px;
+
+	div {
+		font: size 10px;
+	}
+}
+
+.block {
+
+	&__item {
+	}
+
+	&__ {
+	}
+}
+.block {
+}
+.block__item {
+}
+.block__ {
+}
